@@ -1,0 +1,6 @@
+{
+  "name" : "InstagramGrabber",
+  "version" : "0.0.1",
+  "author" : "Marq Jefferson",
+  "desc" : "Grab profiles from Instagram without using their API."
+}
